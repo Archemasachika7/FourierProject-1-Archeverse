@@ -1,1 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.wav
+*.mp3
+
+# Web
+node_modules/
+.DS_Store
 
